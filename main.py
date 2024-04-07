@@ -25,7 +25,7 @@ rcb_tickets_page_url = "https://shop.royalchallengers.com/ticket"
 # Script execution control variables
 tickets_available = False  # Flag to track ticket availability status
 sent_messages_count = 0  # Counter for messages sent
-fetch_status_delay = 10  # Delay in seconds for script re-execution if tickets are not available
+fetch_status_delay = 300  # Delay in seconds for script re-execution if tickets are not available
 
 
 def getPage(url: str) -> request:
