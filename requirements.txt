@@ -1,0 +1,17 @@
+aiohttp==3.9.3
+aiohttp-retry==2.8.3
+aiosignal==1.3.1
+async-timeout==4.0.3
+attrs==23.2.0
+beautifulsoup4==4.12.3
+certifi==2024.2.2
+charset-normalizer==3.3.2
+frozenlist==1.4.1
+idna==3.6
+multidict==6.0.5
+PyJWT==2.8.0
+requests==2.31.0
+soupsieve==2.5
+twilio==9.0.4
+urllib3==2.2.1
+yarl==1.9.4
